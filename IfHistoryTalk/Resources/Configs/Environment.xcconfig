@@ -1,0 +1,7 @@
+// Dev.xcconfig
+BASE_URL = https:/$()/api-dev.ifhistorytalk.com
+API_KEY = dev_key_123
+
+// Prod.xcconfig
+BASE_URL = https:/$()/api.ifhistorytalk.com
+API_KEY = prod_key_456
